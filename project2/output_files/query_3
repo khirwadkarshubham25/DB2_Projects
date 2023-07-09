@@ -1,0 +1,48 @@
+Query 3: Get all artists Name, Birth Date and State whose artworks price is greater than equal to 20000
+
+
+{
+    "artistName": "Ismail Gulg",
+    "birthDate": "1990-01-03",
+    "stateName": "Texas"
+}
+{
+    "artistName": "Shakir Ali",
+    "birthDate": "1995-02-04",
+    "stateName": "Texas"
+}
+{
+    "artistName": "Raja Ravi Varma",
+    "birthDate": "1970-09-19",
+    "stateName": "Texas"
+}
+{
+    "artistName": "Sunil Das",
+    "birthDate": "1985-08-01",
+    "stateName": "Texas"
+}
+{
+    "artistName": "Georgia O'Keeffe",
+    "birthDate": "1997-11-05",
+    "stateName": "Texas"
+}
+{
+    "artistName": "Modupeola Fadugba",
+    "birthDate": "2001-08-05",
+    "stateName": "Texas"
+}
+{
+    "artistName": "Tatsuo Miyajima",
+    "birthDate": "1999-07-07",
+    "stateName": "Oklahoma"
+}
+{
+    "artistName": "Albert Bierstadt",
+    "birthDate": "1999-09-10",
+    "stateName": "Kansas"
+}
+{
+    "artistName": "Edward Hopper",
+    "birthDate": "2000-01-20",
+    "stateName": "Kansas"
+}

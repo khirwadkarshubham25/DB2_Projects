@@ -1,0 +1,534 @@
+Query 1: Get Data of all Artist
+
+
+{
+    "_id": {
+        "$oid": "62f59347db6ccd5b4c32af55"
+    },
+    "aID": 1,
+    "artistName": "Abed Abdi",
+    "birthDate": "2000-01-01",
+    "stateName": "Texas",
+    "artwork": [
+        {
+            "title": "Refugee Camp",
+            "price": 12000,
+            "form": "painting"
+        },
+        {
+            "title": "Waiting",
+            "price": 15000,
+            "form": "painting"
+        },
+        {
+            "title": "Palestenian Women",
+            "price": 1700,
+            "form": "painting"
+        }
+    ]
+}
+{
+    "_id": {
+        "$oid": "62f59347db6ccd5b4c32af56"
+    },
+    "aID": 2,
+    "artistName": "Ismail Gulg",
+    "birthDate": "1990-01-03",
+    "stateName": "Texas",
+    "artwork": [
+        {
+            "title": "Al Momin",
+            "price": 20000,
+            "form": "painting"
+        },
+        {
+            "title": "God",
+            "price": 22000,
+            "form": "painting"
+        }
+    ]
+}
+{
+    "_id": {
+        "$oid": "62f59347db6ccd5b4c32af57"
+    },
+    "aID": 3,
+    "artistName": "Shakir Ali",
+    "birthDate": "1995-02-04",
+    "stateName": "Texas",
+    "artwork": [
+        {
+            "title": "Bird",
+            "price": 40000,
+            "form": "sculpture"
+        },
+        {
+            "title": "Leaves",
+            "price": 30000,
+            "form": "sculpture"
+        }
+    ]
+}
+{
+    "_id": {
+        "$oid": "62f59347db6ccd5b4c32af61"
+    },
+    "aID": 4,
+    "artistName": "Abdur Rahman",
+    "birthDate": "1970-02-05",
+    "stateName": "Oklahoma",
+    "artwork": [
+        {
+            "title": "The Holy Man",
+            "price": 10000,
+            "form": "sculpture"
+        }
+    ]
+}
+{
+    "_id": {
+        "$oid": "62f59347db6ccd5b4c32af62"
+    },
+    "aID": 5,
+    "artistName": "Kalipada Ghoshal",
+    "birthDate": "1994-01-01",
+    "stateName": "Oklahoma",
+    "artwork": [
+        {
+            "title": "Salvador Dali",
+            "price": 190,
+            "form": "print"
+        }
+    ]
+}
+{
+    "_id": {
+        "$oid": "62f59347db6ccd5b4c32af66"
+    },
+    "aID": 6,
+    "artistName": "Manishi Dey",
+    "birthDate": "1994-07-15",
+    "stateName": "Kansas",
+    "artwork": [
+        {
+            "title": "Landscape",
+            "price": 200,
+            "form": "print"
+        },
+        {
+            "title": "Musician",
+            "price": 15000,
+            "form": "sculpture"
+        },
+        {
+            "title": "Sunset",
+            "price": 19000,
+            "form": "painting"
+        }
+    ]
+}
+{
+    "_id": {
+        "$oid": "62f59347db6ccd5b4c32af67"
+    },
+    "aID": 7,
+    "artistName": "Nandalal Bose",
+    "birthDate": "1980-01-09",
+    "stateName": "Kansas",
+    "artwork": [
+        {
+            "title": "Singawala",
+            "price": 10000,
+            "form": "painting"
+        }
+    ]
+}
+{
+    "_id": {
+        "$oid": "62f59347db6ccd5b4c32af58"
+    },
+    "aID": 8,
+    "artistName": "Raja Ravi Varma",
+    "birthDate": "1970-09-19",
+    "stateName": "Texas",
+    "artwork": [
+        {
+            "title": "Shakuntala",
+            "price": 50000,
+            "form": "painting"
+        }
+    ]
+}
+{
+    "_id": {
+        "$oid": "62f59347db6ccd5b4c32af59"
+    },
+    "aID": 9,
+    "artistName": "Sunil Das",
+    "birthDate": "1985-08-01",
+    "stateName": "Texas",
+    "artwork": [
+        {
+            "title": "Grey Horse",
+            "price": 10000,
+            "form": "painting"
+        },
+        {
+            "title": "Blue Horse",
+            "price": 20000,
+            "form": "sculpture"
+        },
+        {
+            "title": "The Lady",
+            "price": 30000,
+            "form": "painting"
+        },
+        {
+            "title": "Horse in MoonLight",
+            "price": 40000,
+            "form": "painting"
+        }
+    ]
+}
+{
+    "_id": {
+        "$oid": "62f59347db6ccd5b4c32af5a"
+    },
+    "aID": 10,
+    "artistName": "Jasper Johns",
+    "birthDate": "1970-01-02",
+    "stateName": "Texas",
+    "artwork": [
+        {
+            "title": "Flag",
+            "price": 12000,
+            "form": "painting"
+        },
+        {
+            "title": "Three Flags",
+            "price": 11500,
+            "form": "painting"
+        },
+        {
+            "title": "Corpse and Mirror",
+            "price": 14000,
+            "form": "painting"
+        },
+        {
+            "title": "Map",
+            "price": 19000,
+            "form": "painting"
+        }
+    ]
+}
+{
+    "_id": {
+        "$oid": "62f59347db6ccd5b4c32af5b"
+    },
+    "aID": 11,
+    "artistName": "Winslow Homer",
+    "birthDate": "1990-02-09",
+    "stateName": "Texas",
+    "artwork": [
+        {
+            "title": "Fishing Boats",
+            "price": 12000,
+            "form": "painting"
+        },
+        {
+            "title": "The Gulf Stream",
+            "price": 15000,
+            "form": "painting"
+        },
+        {
+            "title": "A Basket of Clams",
+            "price": 16000,
+            "form": "painting"
+        },
+        {
+            "title": "Glass Windows",
+            "price": 12000,
+            "form": "painting"
+        },
+        {
+            "title": "Flower Garden",
+            "price": 18000,
+            "form": "painting"
+        }
+    ]
+}
+{
+    "_id": {
+        "$oid": "62f59347db6ccd5b4c32af68"
+    },
+    "aID": 12,
+    "artistName": "Albert Bierstadt",
+    "birthDate": "1999-09-10",
+    "stateName": "Kansas",
+    "artwork": [
+        {
+            "title": "Mount Hood",
+            "price": 200,
+            "form": "print"
+        },
+        {
+            "title": "Buffalo Trail",
+            "price": 200,
+            "form": "print"
+        },
+        {
+            "title": "Indian Spear Fishing",
+            "price": 200,
+            "form": "print"
+        },
+        {
+            "title": "Sunset in the Rockies",
+            "price": 200,
+            "form": "print"
+        },
+        {
+            "title": "Donner Lake",
+            "price": 200,
+            "form": "print"
+        },
+        {
+            "title": "Bridal Veil Falls",
+            "price": 200,
+            "form": "print"
+        },
+        {
+            "title": "A Rustic Mill",
+            "price": 200,
+            "form": "print"
+        },
+        {
+            "title": "Street in Nassau",
+            "price": 200,
+            "form": "print"
+        },
+        {
+            "title": "Gates of The Yosemite",
+            "price": 200,
+            "form": "print"
+        },
+        {
+            "title": "California Spring",
+            "price": 200,
+            "form": "print"
+        },
+        {
+            "title": "The Wolf River",
+            "price": 200,
+            "form": "print"
+        },
+        {
+            "title": "Mount Corcoran",
+            "price": 40000,
+            "form": "painting"
+        }
+    ]
+}
+{
+    "_id": {
+        "$oid": "62f59347db6ccd5b4c32af69"
+    },
+    "aID": 13,
+    "artistName": "Edward Hopper",
+    "birthDate": "2000-01-20",
+    "stateName": "Kansas",
+    "artwork": [
+        {
+            "title": "Night Windows",
+            "price": 30000,
+            "form": "painting"
+        },
+        {
+            "title": "Ground Swell",
+            "price": 15000,
+            "form": "painting"
+        },
+        {
+            "title": "Morning Sun",
+            "price": 12000,
+            "form": "painting"
+        },
+        {
+            "title": "Gas",
+            "price": 22000,
+            "form": "painting"
+        },
+        {
+            "title": "Nighthawks",
+            "price": 25000,
+            "form": "sculpture"
+        }
+    ]
+}
+{
+    "_id": {
+        "$oid": "62f59347db6ccd5b4c32af5c"
+    },
+    "aID": 14,
+    "artistName": "Georgia O'Keeffe",
+    "birthDate": "1997-11-05",
+    "stateName": "Texas",
+    "artwork": [
+        {
+            "title": "Oriental Poppies",
+            "price": 20000,
+            "form": "painting"
+        },
+        {
+            "title": "Rocky Mountains",
+            "price": 40000,
+            "form": "painting"
+        },
+        {
+            "title": "Canyon with Crows",
+            "price": 50000,
+            "form": "painting"
+        },
+        {
+            "title": "Unexpected",
+            "price": 300,
+            "form": "print"
+        },
+        {
+            "title": "Leaf Motif",
+            "price": 350,
+            "form": "print"
+        },
+        {
+            "title": "Jimson Weed",
+            "price": 18000,
+            "form": "painting"
+        },
+        {
+            "title": "The Black Place",
+            "price": 22000,
+            "form": "painting"
+        },
+        {
+            "title": "Cow Skull",
+            "price": 18000,
+            "form": "painting"
+        },
+        {
+            "title": "Sky Above Clouds",
+            "price": 21000,
+            "form": "painting"
+        }
+    ]
+}
+{
+    "_id": {
+        "$oid": "62f59347db6ccd5b4c32af5d"
+    },
+    "aID": 15,
+    "artistName": "Modupeola Fadugba",
+    "birthDate": "2001-08-05",
+    "stateName": "Texas",
+    "artwork": [
+        {
+            "title": "Four Head Bend",
+            "price": 59000,
+            "form": "painting"
+        }
+    ]
+}
+{
+    "_id": {
+        "$oid": "62f59347db6ccd5b4c32af5e"
+    },
+    "aID": 16,
+    "artistName": "Ekene Maduka",
+    "birthDate": "1990-02-09",
+    "stateName": "Texas",
+    "artwork": [
+        {
+            "title": "Win Some Lose Some",
+            "price": 19000,
+            "form": "painting"
+        }
+    ]
+}
+{
+    "_id": {
+        "$oid": "62f59347db6ccd5b4c32af5f"
+    },
+    "aID": 17,
+    "artistName": "Olu Amoda",
+    "birthDate": "1994-07-15",
+    "stateName": "Texas",
+    "artwork": [
+        {
+            "title": "Polygraph",
+            "price": 15000,
+            "form": "sculpture"
+        }
+    ]
+}
+{
+    "_id": {
+        "$oid": "62f59347db6ccd5b4c32af60"
+    },
+    "aID": 18,
+    "artistName": "Koki Tanaka",
+    "birthDate": "1994-07-15",
+    "stateName": "Texas",
+    "artwork": [
+        {
+            "title": "Old House in Seoul",
+            "price": 17000,
+            "form": "sculpture"
+        }
+    ]
+}
+{
+    "_id": {
+        "$oid": "62f59347db6ccd5b4c32af63"
+    },
+    "aID": 19,
+    "artistName": "Tatsuo Miyajima",
+    "birthDate": "1999-07-07",
+    "stateName": "Oklahoma",
+    "artwork": [
+        {
+            "title": "Time Waterfall",
+            "price": 29000,
+            "form": "sculpture"
+        }
+    ]
+}
+{
+    "_id": {
+        "$oid": "62f59347db6ccd5b4c32af64"
+    },
+    "aID": 20,
+    "artistName": "Li Chen",
+    "birthDate": "2000-01-20",
+    "stateName": "Oklahoma",
+    "artwork": [
+        {
+            "title": "Twilight Breeze",
+            "price": 15000,
+            "form": "painting"
+        }
+    ]
+}
+{
+    "_id": {
+        "$oid": "62f59347db6ccd5b4c32af65"
+    },
+    "aID": 21,
+    "artistName": "Zhan Wang",
+    "birthDate": "1999-03-03",
+    "stateName": "Oklahoma",
+    "artwork": [
+        {
+            "title": "Mirror Grden ",
+            "price": 10000,
+            "form": "sculpture"
+        }
+    ]
+}

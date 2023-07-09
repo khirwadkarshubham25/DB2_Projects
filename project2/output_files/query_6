@@ -1,0 +1,15 @@
+Query 6: Get total price for each form of artwork
+
+
+{
+    "form": "sculpture",
+    "totalPrice": 211000
+}
+{
+    "form": "print",
+    "totalPrice": 3240
+}
+{
+    "form": "painting",
+    "totalPrice": 760200
+}

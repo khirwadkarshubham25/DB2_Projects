@@ -1,0 +1,600 @@
+Query 5: Get all artwork details where artwork type is painting or sculpture
+
+
+{
+    "_id": {
+        "$oid": "62f59347db6ccd5b4c32af6a"
+    },
+    "title": "Refugee Camp",
+    "creationDate": "2020-09-09",
+    "price": 12000,
+    "form": "painting",
+    "artistName": "Abed Abdi",
+    "customers": [
+        {
+            "customerName": "Mahbod Seraji ",
+            "city": "Allen",
+            "stateName": "Texas"
+        },
+        {
+            "customerName": "Shazadi Seraji",
+            "city": "Allen",
+            "stateName": "Texas"
+        }
+    ]
+}
+{
+    "_id": {
+        "$oid": "62f59347db6ccd5b4c32af6b"
+    },
+    "title": "Waiting",
+    "creationDate": "2020-12-28",
+    "price": 15000,
+    "form": "painting",
+    "artistName": "Abed Abdi",
+    "customers": []
+}
+{
+    "_id": {
+        "$oid": "62f59347db6ccd5b4c32af6c"
+    },
+    "title": "Palestenian Women",
+    "creationDate": "2021-01-01",
+    "price": 1700,
+    "form": "painting",
+    "artistName": "Abed Abdi",
+    "customers": [
+        {
+            "customerName": "Nadia Hashimi",
+            "city": "Addison",
+            "stateName": "Texas"
+        }
+    ]
+}
+{
+    "_id": {
+        "$oid": "62f59347db6ccd5b4c32af6d"
+    },
+    "title": "Al Momin",
+    "creationDate": "1920-02-19",
+    "price": 20000,
+    "form": "painting",
+    "artistName": "Ismail Gulg",
+    "customers": []
+}
+{
+    "_id": {
+        "$oid": "62f59347db6ccd5b4c32af6e"
+    },
+    "title": "God",
+    "creationDate": "1921-01-01",
+    "price": 22000,
+    "form": "painting",
+    "artistName": "Ismail Gulg",
+    "customers": []
+}
+{
+    "_id": {
+        "$oid": "62f59347db6ccd5b4c32af6f"
+    },
+    "title": "Bird",
+    "creationDate": "2021-02-04",
+    "price": 40000,
+    "form": "sculpture",
+    "artistName": "Shakir Ali",
+    "customers": [
+        {
+            "customerName": "Tahmima Anam",
+            "city": "Frisco",
+            "stateName": "Texas"
+        }
+    ]
+}
+{
+    "_id": {
+        "$oid": "62f59347db6ccd5b4c32af70"
+    },
+    "title": "Leaves",
+    "creationDate": "2021-01-04",
+    "price": 30000,
+    "form": "sculpture",
+    "artistName": "Shakir Ali",
+    "customers": []
+}
+{
+    "_id": {
+        "$oid": "62f59347db6ccd5b4c32af71"
+    },
+    "title": "The Holy Man",
+    "creationDate": "2014-01-01",
+    "price": 10000,
+    "form": "sculpture",
+    "artistName": "Abdur Rahman",
+    "customers": []
+}
+{
+    "_id": {
+        "$oid": "62f59347db6ccd5b4c32af74"
+    },
+    "title": "Musician",
+    "creationDate": "2020-01-25",
+    "price": 15000,
+    "form": "sculpture",
+    "artistName": "Manishi Dey",
+    "customers": [
+        {
+            "customerName": "Elena Lee",
+            "city": "Gunter",
+            "stateName": "Texas"
+        },
+        {
+            "customerName": "Harper Lee",
+            "city": "Gunter",
+            "stateName": "Texas"
+        },
+        {
+            "customerName": "Scott Green",
+            "city": "Gunter",
+            "stateName": "Texas"
+        },
+        {
+            "customerName": "Mary Green",
+            "city": "Gunter",
+            "stateName": "Texas"
+        }
+    ]
+}
+{
+    "_id": {
+        "$oid": "62f59347db6ccd5b4c32af75"
+    },
+    "title": "Sunset",
+    "creationDate": "2020-06-25",
+    "price": 19000,
+    "form": "painting",
+    "artistName": "Manishi Dey",
+    "customers": []
+}
+{
+    "_id": {
+        "$oid": "62f59347db6ccd5b4c32af76"
+    },
+    "title": "Singawala",
+    "creationDate": "2015-05-20",
+    "price": 10000,
+    "form": "painting",
+    "artistName": "Nandalal Bose",
+    "customers": [
+        {
+            "customerName": "Tom Twain",
+            "city": "Garland ",
+            "stateName": "Texas"
+        }
+    ]
+}
+{
+    "_id": {
+        "$oid": "62f59347db6ccd5b4c32af77"
+    },
+    "title": "Shakuntala",
+    "creationDate": "2000-09-27",
+    "price": 50000,
+    "form": "painting",
+    "artistName": "Raja Ravi Varma",
+    "customers": []
+}
+{
+    "_id": {
+        "$oid": "62f59347db6ccd5b4c32af78"
+    },
+    "title": "Grey Horse",
+    "creationDate": "1989-07-01",
+    "price": 10000,
+    "form": "painting",
+    "artistName": "Sunil Das",
+    "customers": []
+}
+{
+    "_id": {
+        "$oid": "62f59347db6ccd5b4c32af79"
+    },
+    "title": "Blue Horse",
+    "creationDate": "1989-08-01",
+    "price": 20000,
+    "form": "sculpture",
+    "artistName": "Sunil Das",
+    "customers": [
+        {
+            "customerName": "Maya Morrison",
+            "city": "Sherman",
+            "stateName": "Texas"
+        }
+    ]
+}
+{
+    "_id": {
+        "$oid": "62f59347db6ccd5b4c32af7a"
+    },
+    "title": "The Lady",
+    "creationDate": "1989-09-01",
+    "price": 30000,
+    "form": "painting",
+    "artistName": "Sunil Das",
+    "customers": []
+}
+{
+    "_id": {
+        "$oid": "62f59347db6ccd5b4c32af7b"
+    },
+    "title": "Horse in MoonLight",
+    "creationDate": "1989-10-01",
+    "price": 40000,
+    "form": "painting",
+    "artistName": "Sunil Das",
+    "customers": []
+}
+{
+    "_id": {
+        "$oid": "62f59347db6ccd5b4c32af7c"
+    },
+    "title": "Flag",
+    "creationDate": "2000-01-01",
+    "price": 12000,
+    "form": "painting",
+    "artistName": "Jasper Johns",
+    "customers": []
+}
+{
+    "_id": {
+        "$oid": "62f59347db6ccd5b4c32af7d"
+    },
+    "title": "Three Flags",
+    "creationDate": "2000-09-19",
+    "price": 11500,
+    "form": "painting",
+    "artistName": "Jasper Johns",
+    "customers": [
+        {
+            "customerName": "Jay Steinbeck",
+            "city": "Kemp",
+            "stateName": "Texas"
+        },
+        {
+            "customerName": "Linda Steinbeck",
+            "city": "Dallas",
+            "stateName": "Texas"
+        }
+    ]
+}
+{
+    "_id": {
+        "$oid": "62f59347db6ccd5b4c32af7e"
+    },
+    "title": "Corpse and Mirror",
+    "creationDate": "2015-01-01",
+    "price": 14000,
+    "form": "painting",
+    "artistName": "Jasper Johns",
+    "customers": []
+}
+{
+    "_id": {
+        "$oid": "62f59347db6ccd5b4c32af7f"
+    },
+    "title": "Map",
+    "creationDate": "2017-08-09",
+    "price": 19000,
+    "form": "painting",
+    "artistName": "Jasper Johns",
+    "customers": [
+        {
+            "customerName": "Randy Bradbury",
+            "city": "Marshall",
+            "stateName": "Texas"
+        }
+    ]
+}
+{
+    "_id": {
+        "$oid": "62f59347db6ccd5b4c32af80"
+    },
+    "title": "Fishing Boats",
+    "creationDate": "1990-01-10",
+    "price": 12000,
+    "form": "painting",
+    "artistName": "Winslow Homer",
+    "customers": []
+}
+{
+    "_id": {
+        "$oid": "62f59347db6ccd5b4c32af81"
+    },
+    "title": "The Gulf Stream",
+    "creationDate": "1992-03-04",
+    "price": 15000,
+    "form": "painting",
+    "artistName": "Winslow Homer",
+    "customers": []
+}
+{
+    "_id": {
+        "$oid": "62f59347db6ccd5b4c32af82"
+    },
+    "title": "A Basket of Clams",
+    "creationDate": "1993-04-05",
+    "price": 16000,
+    "form": "painting",
+    "artistName": "Winslow Homer",
+    "customers": []
+}
+{
+    "_id": {
+        "$oid": "62f59347db6ccd5b4c32af83"
+    },
+    "title": "Glass Windows",
+    "creationDate": "1993-05-07",
+    "price": 12000,
+    "form": "painting",
+    "artistName": "Winslow Homer",
+    "customers": []
+}
+{
+    "_id": {
+        "$oid": "62f59347db6ccd5b4c32af84"
+    },
+    "title": "Flower Garden",
+    "creationDate": "1999-05-01",
+    "price": 18000,
+    "form": "painting",
+    "artistName": "Winslow Homer",
+    "customers": []
+}
+{
+    "_id": {
+        "$oid": "62f59347db6ccd5b4c32af90"
+    },
+    "title": "Mount Corcoran",
+    "creationDate": "1989-09-10",
+    "price": 40000,
+    "form": "painting",
+    "artistName": "Albert Bierstadt",
+    "customers": []
+}
+{
+    "_id": {
+        "$oid": "62f59347db6ccd5b4c32af91"
+    },
+    "title": "Night Windows",
+    "creationDate": "2000-09-05",
+    "price": 30000,
+    "form": "painting",
+    "artistName": "Edward Hopper",
+    "customers": []
+}
+{
+    "_id": {
+        "$oid": "62f59347db6ccd5b4c32af92"
+    },
+    "title": "Ground Swell",
+    "creationDate": "1990-06-20",
+    "price": 15000,
+    "form": "painting",
+    "artistName": "Edward Hopper",
+    "customers": []
+}
+{
+    "_id": {
+        "$oid": "62f59347db6ccd5b4c32af93"
+    },
+    "title": "Morning Sun",
+    "creationDate": "1995-01-01",
+    "price": 12000,
+    "form": "painting",
+    "artistName": "Edward Hopper",
+    "customers": [
+        {
+            "customerName": "Amitav Ghosh",
+            "city": "Homer",
+            "stateName": "Louisiana"
+        }
+    ]
+}
+{
+    "_id": {
+        "$oid": "62f59347db6ccd5b4c32af94"
+    },
+    "title": "Gas",
+    "creationDate": "1990-09-20",
+    "price": 22000,
+    "form": "painting",
+    "artistName": "Edward Hopper",
+    "customers": []
+}
+{
+    "_id": {
+        "$oid": "62f59347db6ccd5b4c32af95"
+    },
+    "title": "Nighthawks",
+    "creationDate": "2000-09-11",
+    "price": 25000,
+    "form": "sculpture",
+    "artistName": "Edward Hopper",
+    "customers": []
+}
+{
+    "_id": {
+        "$oid": "62f59347db6ccd5b4c32af96"
+    },
+    "title": "Oriental Poppies",
+    "creationDate": "2020-04-09",
+    "price": 20000,
+    "form": "painting",
+    "artistName": "Georgia O'Keeffe",
+    "customers": []
+}
+{
+    "_id": {
+        "$oid": "62f59347db6ccd5b4c32af97"
+    },
+    "title": "Rocky Mountains",
+    "creationDate": "2014-09-18",
+    "price": 40000,
+    "form": "painting",
+    "artistName": "Georgia O'Keeffe",
+    "customers": []
+}
+{
+    "_id": {
+        "$oid": "62f59347db6ccd5b4c32af98"
+    },
+    "title": "Canyon with Crows",
+    "creationDate": "2018-06-06",
+    "price": 50000,
+    "form": "painting",
+    "artistName": "Georgia O'Keeffe",
+    "customers": []
+}
+{
+    "_id": {
+        "$oid": "62f59347db6ccd5b4c32af9b"
+    },
+    "title": "Jimson Weed",
+    "creationDate": "2018-01-09",
+    "price": 18000,
+    "form": "painting",
+    "artistName": "Georgia O'Keeffe",
+    "customers": [
+        {
+            "customerName": "Helon Habila",
+            "city": "Sunspot",
+            "stateName": "New Mexico"
+        }
+    ]
+}
+{
+    "_id": {
+        "$oid": "62f59347db6ccd5b4c32af9c"
+    },
+    "title": "The Black Place",
+    "creationDate": "2018-09-19",
+    "price": 22000,
+    "form": "painting",
+    "artistName": "Georgia O'Keeffe",
+    "customers": []
+}
+{
+    "_id": {
+        "$oid": "62f59347db6ccd5b4c32af9d"
+    },
+    "title": "Cow Skull",
+    "creationDate": "2019-07-16",
+    "price": 18000,
+    "form": "painting",
+    "artistName": "Georgia O'Keeffe",
+    "customers": []
+}
+{
+    "_id": {
+        "$oid": "62f59347db6ccd5b4c32af9e"
+    },
+    "title": "Sky Above Clouds",
+    "creationDate": "2018-07-15",
+    "price": 21000,
+    "form": "painting",
+    "artistName": "Georgia O'Keeffe",
+    "customers": []
+}
+{
+    "_id": {
+        "$oid": "62f59347db6ccd5b4c32af9f"
+    },
+    "title": "Four Head Bend",
+    "creationDate": "2020-07-09",
+    "price": 59000,
+    "form": "painting",
+    "artistName": "Modupeola Fadugba",
+    "customers": []
+}
+{
+    "_id": {
+        "$oid": "62f59347db6ccd5b4c32afa0"
+    },
+    "title": "Win Some Lose Some",
+    "creationDate": "2015-07-04",
+    "price": 19000,
+    "form": "painting",
+    "artistName": "Ekene Maduka",
+    "customers": []
+}
+{
+    "_id": {
+        "$oid": "62f59347db6ccd5b4c32afa1"
+    },
+    "title": "Polygraph",
+    "creationDate": "2018-04-05",
+    "price": 15000,
+    "form": "sculpture",
+    "artistName": "Olu Amoda",
+    "customers": []
+}
+{
+    "_id": {
+        "$oid": "62f59347db6ccd5b4c32afa2"
+    },
+    "title": "Old House in Seoul",
+    "creationDate": "2015-01-10",
+    "price": 17000,
+    "form": "sculpture",
+    "artistName": "Koki Tanaka",
+    "customers": []
+}
+{
+    "_id": {
+        "$oid": "62f59347db6ccd5b4c32afa3"
+    },
+    "title": "Time Waterfall",
+    "creationDate": "2020-05-05",
+    "price": 29000,
+    "form": "sculpture",
+    "artistName": "Tatsuo Miyajima",
+    "customers": []
+}
+{
+    "_id": {
+        "$oid": "62f59347db6ccd5b4c32afa4"
+    },
+    "title": "Twilight Breeze",
+    "creationDate": "2020-10-08",
+    "price": 15000,
+    "form": "painting",
+    "artistName": "Li Chen",
+    "customers": [
+        {
+            "customerName": "Ana Castillo",
+            "city": "Weed",
+            "stateName": "New Mexico"
+        }
+    ]
+}
+{
+    "_id": {
+        "$oid": "62f59347db6ccd5b4c32afa5"
+    },
+    "title": "Mirror Grden ",
+    "creationDate": "2015-01-01",
+    "price": 10000,
+    "form": "sculpture",
+    "artistName": "Zhan Wang",
+    "customers": [
+        {
+            "customerName": "Carlos Fuentes",
+            "city": "Bard",
+            "stateName": "New Mexico"
+        },
+        {
+            "customerName": "Cristina Fuentes",
+            "city": "Cuervo",
+            "stateName": "New Mexico"
+        }
+    ]
+}

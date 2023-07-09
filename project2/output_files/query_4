@@ -1,0 +1,243 @@
+Query 4: Get name of artwork and total customers who bought painting
+
+
+{
+    "artistName": "Manishi Dey",
+    "customerCount": 4
+}
+{
+    "artistName": "Abed Abdi",
+    "customerCount": 2
+}
+{
+    "artistName": "Jasper Johns",
+    "customerCount": 2
+}
+{
+    "artistName": "Zhan Wang",
+    "customerCount": 2
+}
+{
+    "artistName": "Abed Abdi",
+    "customerCount": 1
+}
+{
+    "artistName": "Shakir Ali",
+    "customerCount": 1
+}
+{
+    "artistName": "Nandalal Bose",
+    "customerCount": 1
+}
+{
+    "artistName": "Sunil Das",
+    "customerCount": 1
+}
+{
+    "artistName": "Jasper Johns",
+    "customerCount": 1
+}
+{
+    "artistName": "Albert Bierstadt",
+    "customerCount": 1
+}
+{
+    "artistName": "Albert Bierstadt",
+    "customerCount": 1
+}
+{
+    "artistName": "Albert Bierstadt",
+    "customerCount": 1
+}
+{
+    "artistName": "Edward Hopper",
+    "customerCount": 1
+}
+{
+    "artistName": "Georgia O'Keeffe",
+    "customerCount": 1
+}
+{
+    "artistName": "Georgia O'Keeffe",
+    "customerCount": 1
+}
+{
+    "artistName": "Li Chen",
+    "customerCount": 1
+}
+{
+    "artistName": "Abed Abdi",
+    "customerCount": 0
+}
+{
+    "artistName": "Ismail Gulg",
+    "customerCount": 0
+}
+{
+    "artistName": "Ismail Gulg",
+    "customerCount": 0
+}
+{
+    "artistName": "Shakir Ali",
+    "customerCount": 0
+}
+{
+    "artistName": "Abdur Rahman",
+    "customerCount": 0
+}
+{
+    "artistName": "Kalipada Ghoshal",
+    "customerCount": 0
+}
+{
+    "artistName": "Manishi Dey",
+    "customerCount": 0
+}
+{
+    "artistName": "Manishi Dey",
+    "customerCount": 0
+}
+{
+    "artistName": "Raja Ravi Varma",
+    "customerCount": 0
+}
+{
+    "artistName": "Sunil Das",
+    "customerCount": 0
+}
+{
+    "artistName": "Sunil Das",
+    "customerCount": 0
+}
+{
+    "artistName": "Sunil Das",
+    "customerCount": 0
+}
+{
+    "artistName": "Jasper Johns",
+    "customerCount": 0
+}
+{
+    "artistName": "Jasper Johns",
+    "customerCount": 0
+}
+{
+    "artistName": "Winslow Homer",
+    "customerCount": 0
+}
+{
+    "artistName": "Winslow Homer",
+    "customerCount": 0
+}
+{
+    "artistName": "Winslow Homer",
+    "customerCount": 0
+}
+{
+    "artistName": "Winslow Homer",
+    "customerCount": 0
+}
+{
+    "artistName": "Winslow Homer",
+    "customerCount": 0
+}
+{
+    "artistName": "Albert Bierstadt",
+    "customerCount": 0
+}
+{
+    "artistName": "Albert Bierstadt",
+    "customerCount": 0
+}
+{
+    "artistName": "Albert Bierstadt",
+    "customerCount": 0
+}
+{
+    "artistName": "Albert Bierstadt",
+    "customerCount": 0
+}
+{
+    "artistName": "Albert Bierstadt",
+    "customerCount": 0
+}
+{
+    "artistName": "Albert Bierstadt",
+    "customerCount": 0
+}
+{
+    "artistName": "Albert Bierstadt",
+    "customerCount": 0
+}
+{
+    "artistName": "Albert Bierstadt",
+    "customerCount": 0
+}
+{
+    "artistName": "Albert Bierstadt",
+    "customerCount": 0
+}
+{
+    "artistName": "Edward Hopper",
+    "customerCount": 0
+}
+{
+    "artistName": "Edward Hopper",
+    "customerCount": 0
+}
+{
+    "artistName": "Edward Hopper",
+    "customerCount": 0
+}
+{
+    "artistName": "Edward Hopper",
+    "customerCount": 0
+}
+{
+    "artistName": "Georgia O'Keeffe",
+    "customerCount": 0
+}
+{
+    "artistName": "Georgia O'Keeffe",
+    "customerCount": 0
+}
+{
+    "artistName": "Georgia O'Keeffe",
+    "customerCount": 0
+}
+{
+    "artistName": "Georgia O'Keeffe",
+    "customerCount": 0
+}
+{
+    "artistName": "Georgia O'Keeffe",
+    "customerCount": 0
+}
+{
+    "artistName": "Georgia O'Keeffe",
+    "customerCount": 0
+}
+{
+    "artistName": "Georgia O'Keeffe",
+    "customerCount": 0
+}
+{
+    "artistName": "Modupeola Fadugba",
+    "customerCount": 0
+}
+{
+    "artistName": "Ekene Maduka",
+    "customerCount": 0
+}
+{
+    "artistName": "Olu Amoda",
+    "customerCount": 0
+}
+{
+    "artistName": "Koki Tanaka",
+    "customerCount": 0
+}
+{
+    "artistName": "Tatsuo Miyajima",
+    "customerCount": 0
+}
